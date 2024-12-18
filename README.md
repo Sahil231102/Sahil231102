@@ -7,7 +7,7 @@
 - 🚀 I am always eager to learn new technologies and work on exciting projects.
 
 ## 📱 Projects
-### 🌟 [Food_Hub - Flutter Application](https://github.com/Sahil231102/food_hub)
+### 🌟 [Food_Hub - Flutter Application](https://github.com/Sahil231102/FoodHub_User)
 Food_Hub is a mobile app built using Flutter that connects users with food services, featuring both user and admin modules.
 
 - **User Module:** Allows browsing food items, placing orders, and viewing order history.
