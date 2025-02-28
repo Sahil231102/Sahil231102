@@ -1,7 +1,7 @@
 # Hi there, I'm Sahil Sorathiya 👋
 
 ## 👨‍💻 About Me:
-- 🧑‍🎓 I am pursuing my MCA (Master of Computer Applications) at LDRP, Gandhinagar.
+- 🧑‍🎓 I am pursuing MCA (Master of Computer Applications) at LDRP, Gandhinagar.
 - 💡 I am passionate about **Flutter Development** and am currently working on the **Food_Hub** application project.
 - 📜 I have successfully achieved a **Flutter Certification** to enhance my mobile development skills.
 - 🚀 I am always eager to learn new technologies and work on exciting projects.
